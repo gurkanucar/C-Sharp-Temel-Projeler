@@ -1,0 +1,9 @@
+c:\users\gurkan\documents\visual studio 2013\Projects\kelimeOyunu\kelimeOyunu\bin\Debug\kelimeOyunu.exe.config
+c:\users\gurkan\documents\visual studio 2013\Projects\kelimeOyunu\kelimeOyunu\bin\Debug\kelimeOyunu.exe
+c:\users\gurkan\documents\visual studio 2013\Projects\kelimeOyunu\kelimeOyunu\bin\Debug\kelimeOyunu.pdb
+c:\users\gurkan\documents\visual studio 2013\Projects\kelimeOyunu\kelimeOyunu\obj\Debug\kelimeOyunu.csprojResolveAssemblyReference.cache
+c:\users\gurkan\documents\visual studio 2013\Projects\kelimeOyunu\kelimeOyunu\obj\Debug\kelimeOyunu.Form1.resources
+c:\users\gurkan\documents\visual studio 2013\Projects\kelimeOyunu\kelimeOyunu\obj\Debug\kelimeOyunu.Properties.Resources.resources
+c:\users\gurkan\documents\visual studio 2013\Projects\kelimeOyunu\kelimeOyunu\obj\Debug\kelimeOyunu.csproj.GenerateResource.Cache
+c:\users\gurkan\documents\visual studio 2013\Projects\kelimeOyunu\kelimeOyunu\obj\Debug\kelimeOyunu.exe
+c:\users\gurkan\documents\visual studio 2013\Projects\kelimeOyunu\kelimeOyunu\obj\Debug\kelimeOyunu.pdb
